@@ -1,6 +1,6 @@
 Nume: Pirvan Andra-Alexia
 > Grupa: 335CB (refacere)
-> Link GitHub: https://github.com/alexia-pirvan/poo-cd-project1/
+>> Link GitHub: https://github.com/alexia-pirvan/poo-cd-project1/
 
 # PROIECT (POO TV)- Etapa 1
 
