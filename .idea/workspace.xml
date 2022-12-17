@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90d7ae1c-1374-4c80-b31a-3f8eef3b6987" name="Changes" comment="Created the User class, which represents all the information about the user, including the purchased/watched/liked/rated movies">
-      <change afterPath="$PROJECT_DIR$/PageAction.java" afterDir="false" />
+    <list default="true" id="90d7ae1c-1374-4c80-b31a-3f8eef3b6987" name="Changes" comment="Created the PageAction interface with two abstract methods &quot;onPage&quot; and &quot;changePage&quot; which are to be implemented by each Page-type class in the desired way">
+      <change afterPath="$PROJECT_DIR$/Page.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +66,7 @@
       <workItem from="1671025134714" duration="229000" />
       <workItem from="1671025378082" duration="94000" />
       <workItem from="1671221449006" duration="40000" />
-      <workItem from="1671272364915" duration="1768000" />
+      <workItem from="1671272364915" duration="2363000" />
     </task>
     <task id="LOCAL-00001" summary="Created UserAccount, as a base for data about user credentials">
       <created>1671272695121</created>
@@ -82,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671273684874</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Created the PageAction interface with two abstract methods &quot;onPage&quot; and &quot;changePage&quot; which are to be implemented by each Page-type class in the desired way">
+      <created>1671274229899</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671274229899</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,7 +112,8 @@
     </ignored-roots>
     <MESSAGE value="Created UserAccount, as a base for data about user credentials" />
     <MESSAGE value="Created the User class, which represents all the information about the user, including the purchased/watched/liked/rated movies" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created the User class, which represents all the information about the user, including the purchased/watched/liked/rated movies" />
+    <MESSAGE value="Created the PageAction interface with two abstract methods &quot;onPage&quot; and &quot;changePage&quot; which are to be implemented by each Page-type class in the desired way" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created the PageAction interface with two abstract methods &quot;onPage&quot; and &quot;changePage&quot; which are to be implemented by each Page-type class in the desired way" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
