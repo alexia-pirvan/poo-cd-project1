@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90d7ae1c-1374-4c80-b31a-3f8eef3b6987" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/UserAccount.java" afterDir="false" />
+    <list default="true" id="90d7ae1c-1374-4c80-b31a-3f8eef3b6987" name="Changes" comment="Created UserAccount, as a base for data about user credentials">
+      <change afterPath="$PROJECT_DIR$/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -67,8 +67,16 @@
       <workItem from="1671025134714" duration="229000" />
       <workItem from="1671025378082" duration="94000" />
       <workItem from="1671221449006" duration="40000" />
-      <workItem from="1671272364915" duration="289000" />
+      <workItem from="1671272364915" duration="1220000" />
     </task>
+    <task id="LOCAL-00001" summary="Created UserAccount, as a base for data about user credentials">
+      <created>1671272695121</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671272695121</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +92,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+    <MESSAGE value="Created UserAccount, as a base for data about user credentials" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created UserAccount, as a base for data about user credentials" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
