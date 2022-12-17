@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90d7ae1c-1374-4c80-b31a-3f8eef3b6987" name="Changes" comment="Created the Page abstract class which will be extended by specific pages.">
+    <list default="true" id="90d7ae1c-1374-4c80-b31a-3f8eef3b6987" name="Changes" comment="Created the Browser">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +67,7 @@
       <workItem from="1671025134714" duration="229000" />
       <workItem from="1671025378082" duration="94000" />
       <workItem from="1671221449006" duration="40000" />
-      <workItem from="1671272364915" duration="4650000" />
+      <workItem from="1671272364915" duration="5747000" />
     </task>
     <task id="LOCAL-00001" summary="Created UserAccount, as a base for data about user credentials">
       <created>1671272695121</created>
@@ -97,7 +97,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671274796299</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Created the Browser">
+      <created>1671284680474</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671284680474</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Created the Browser">
+      <created>1671284860361</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671284860361</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,7 +136,8 @@
     <MESSAGE value="Created the User class, which represents all the information about the user, including the purchased/watched/liked/rated movies" />
     <MESSAGE value="Created the PageAction interface with two abstract methods &quot;onPage&quot; and &quot;changePage&quot; which are to be implemented by each Page-type class in the desired way" />
     <MESSAGE value="Created the Page abstract class which will be extended by specific pages." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created the Page abstract class which will be extended by specific pages." />
+    <MESSAGE value="Created the Browser" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created the Browser" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
