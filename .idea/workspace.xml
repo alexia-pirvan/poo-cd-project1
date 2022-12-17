@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90d7ae1c-1374-4c80-b31a-3f8eef3b6987" name="Changes" comment="Created UserAccount, as a base for data about user credentials">
-      <change afterPath="$PROJECT_DIR$/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="90d7ae1c-1374-4c80-b31a-3f8eef3b6987" name="Changes" comment="Created the User class, which represents all the information about the user, including the purchased/watched/liked/rated movies">
+      <change afterPath="$PROJECT_DIR$/PageAction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +66,7 @@
       <workItem from="1671025134714" duration="229000" />
       <workItem from="1671025378082" duration="94000" />
       <workItem from="1671221449006" duration="40000" />
-      <workItem from="1671272364915" duration="1220000" />
+      <workItem from="1671272364915" duration="1768000" />
     </task>
     <task id="LOCAL-00001" summary="Created UserAccount, as a base for data about user credentials">
       <created>1671272695121</created>
@@ -76,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671272695121</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created the User class, which represents all the information about the user, including the purchased/watched/liked/rated movies">
+      <created>1671273684874</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671273684874</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,7 +104,8 @@
       <path value="$PROJECT_DIR$/../.." />
     </ignored-roots>
     <MESSAGE value="Created UserAccount, as a base for data about user credentials" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created UserAccount, as a base for data about user credentials" />
+    <MESSAGE value="Created the User class, which represents all the information about the user, including the purchased/watched/liked/rated movies" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created the User class, which represents all the information about the user, including the purchased/watched/liked/rated movies" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
